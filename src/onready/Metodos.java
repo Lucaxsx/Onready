@@ -1,5 +1,6 @@
 package onready;
 
+
 /*
  *
  *  Autor:  Santillan, Lucas.
@@ -8,8 +9,15 @@ package onready;
  * 
  */
 public interface Metodos {
-    //      Método estático que devuelve un valor booleano.
-    static boolean mayorOmenor(double a, double b){
-        return a > b;
-    }
+    
+    public abstract String buscarModeloPorLetra(char letra, Vehiculo[] v);
+    
+    public abstract String masCaro(Vehiculo[] v);
+    
+    public abstract String masBarato(Vehiculo[] v);
+    
+    public abstract double[] ordenar(double[] precios);
+    
+    public abstract void mayorAmenor(Vehiculo[] v);
+    
 }
