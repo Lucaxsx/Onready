@@ -1,6 +1,6 @@
 # Onready
 
-Ejercicio Onready
+Ejercicio Onready:
 
 Imaginemos una concesionaria de autos y motos.
 Crear un programa cuyo punto de entrada sea un main en donde, al ejecutarse, se visualiza
