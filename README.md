@@ -1,8 +1,12 @@
 # Onready
+
 Ejercicio Onready
+
 Imaginemos una concesionaria de autos y motos.
 Crear un programa cuyo punto de entrada sea un main en donde, al ejecutarse, se visualiza
 lo siguiente por consola y se termina la ejecución:
+
+
 
 Marca: Peugeot // Modelo: 206 // Puertas: 4 // Precio: $200.000,00
 
